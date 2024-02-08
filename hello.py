@@ -7,3 +7,6 @@ age = input("Quelle est votre age ? ")
 
 print("Vous avez : " , age, " ans")
 
+borndate = input("Quelle est votre date de naissance ? ")
+
+print ("Vous etes née le : " + borndate)
